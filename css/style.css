@@ -22,16 +22,22 @@ ul{
 h1,h2,h3,h4,h5,h6,label,p{
 	margin:0;		
 }
+.title{
+	color: #3498db;
+}
 .banner{
-	background:url(../images/2.jpg)no-repeat center;
+	background:url(../images/backgrounds/bg-4.jpg)no-repeat center;
 	background-size:cover;
 	width:100%;
 	min-height:200px;
-
+}
+a{
+	color: #fff;
 }
 .slider {
   position: relative;
 }
+
 .header_desc{ 	
  	position:absolute;
  	bottom:10px;
@@ -132,7 +138,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	text-decoration:none;
 }
 .simply h4 a:hover{
-	color:#B1599B;
+	color:#3498db;
 }
 .simply p{
 	color:#787878;
@@ -150,7 +156,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .content-grid h3{
 	font-size:2em;
-	color:#B1599B;
+	color:#3498db;
 	font-weight:600;
 font-family: 'Oswald', sans-serif;	
 }
@@ -181,7 +187,7 @@ font-family: 'Oswald', sans-serif;
 	text-decoration:none;	
 }
 .grid-middle ul li a i{
-	background:#B1599B;
+	background:#3498db;
 	width:6px;
 	height:6px;
 	display:inline-block;
@@ -189,7 +195,7 @@ font-family: 'Oswald', sans-serif;
 	margin: 0 8px 0px;
 }
 .grid-middle ul li a:hover{
-	color:#B1599B;
+	color:#3498db;
 	padding: 0.5em 0 0.5em 0.3em; 
 		
 }
@@ -212,7 +218,7 @@ font-family: 'Oswald', sans-serif;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
   text-decoration:none;
-  background:#B1599B;
+  background:#3498db;
   padding: 0.7em 1.3em;
   font-size: 1em;
 	color: #fff;
@@ -271,14 +277,14 @@ font-family: 'Oswald', sans-serif;
 /*----*/
 .cur-right h3{
 	font-size:2em;
-	color:#B1599B;
+	color:#3498db;
 	font-weight:600;
 	font-family: 'Oswald', sans-serif;
 }
 a.more-info{
 	text-decoration: none;
 	font-size: 1em;
-	color:#B1599B ;
+	color:#3498db ;
 	padding: 0.7em 0em;
 }
 a.more-info:hover{
@@ -330,7 +336,7 @@ a.more-info i{
 	line-height:1.5em;
 }
 .our-grid h6 a{
-	color:#B1599B;
+	color:#3498db;
 	text-decoration:none;
 }
 .our-grid h6 a:hover{
@@ -350,7 +356,7 @@ a.more-info i{
 span.in-sed{
 	font-size:2.5em;
 	color:#fff;
-	background:#B1599B;
+	background:#3498db;
 	width: 55px;
 	height: 55px;
 	text-align: center;
@@ -368,7 +374,7 @@ font-size:1.3em;
 	line-height:1.3em;
 }
 .left-sit h6 a{
-	color:#B1599B;
+	color:#3498db;
 	text-decoration:none;
 }
 .left-sit h6 a:hover{
@@ -401,7 +407,7 @@ font-size:1.3em;
 	font-weight: 700;
 }
 .team-top  h6 a{
-	color: #B1599B;
+	color: #3498db;
 	text-decoration:none;
 }
 .team-top  h6 a:hover{
@@ -419,7 +425,7 @@ font-size:1.3em;
 	text-align:center;
 }
 .four h3 {
-	color: #B1599B;
+	color: #3498db;
 	font-size: 7em;
 	
 }
@@ -436,7 +442,7 @@ font-size:1.3em;
 	  margin: 0.8em 0 0;
 }
 .blog_box h3 a{
-	color:#B1599B;
+	color:#3498db;
 }
 .blog_box h3 a:hover{
 	color:#fff;
@@ -459,7 +465,7 @@ font-size:1.3em;
 }
 .links ul li a{	
 	text-decoration:none;
-	color:#B1599B;
+	color:#3498db;
 }
 .links ul li a:hover{	
 	color:#fff;
@@ -479,10 +485,10 @@ ul.start li a{
 	padding:0.5em 1em;
 }
 ul.start li a:hover{
-	background:#B1599B;
+	background:#3498db;
 }
 ul.start li span{
-	background:#B1599B;
+	background:#3498db;
 	color:#fff;
 	font-size:1.2em;
 	padding:0.5em 1em;
@@ -534,7 +540,7 @@ p.your-para{
 .send input[type="submit"]{
 	width: 30%;
 	font-size: 1.3em;
-	background: #B1599B;
+	background: #3498db;
 	padding: 0.4em 0.8em;
 	text-align: center;
 	color: #fff;
@@ -557,7 +563,7 @@ p.your-para{
 p.sed-para{
 	font-size: 1.3em;
 	padding:0.4em 0;
-	color:#B1599B;
+	color:#3498db;
 }
 .address-more,.address-left{
 	float:left;
@@ -595,7 +601,7 @@ p.sed-para{
 .table-form input[type="submit"]{
 	width: 13%;
 	font-size: 1.3em;
-	background: #B1599B;
+	background: #3498db;
 	padding: 0.4em 0.8em;
 	text-align: center;
 	color: #fff;
@@ -627,7 +633,7 @@ p.sed-para{
 }
 .sed-in h4{
 	font-size: 1.5em;
-	color: #B1599B;
+	color: #3498db;
 	font-weight: 600;
 }
 .sed-in p,p.at-in{
@@ -652,7 +658,7 @@ p.at-in{
 }
 .post-top h6 {
 	font-size: 1.5em;
-	color: #B1599B;
+	color: #3498db;
 	padding:0.3em 0;
 }
 .post-top p{
@@ -682,12 +688,11 @@ p.at-in{
 	line-height: 1.6em;
 }
 .amet-sed p a{
-	color:#B1599B;
+	color:#3498db;
 	text-decoration:none;
 }
 .amet-in ul li{
 display:inline-block;
-	  width: 30%;
   margin: 2% 2% 0 0;
   border: 1px solid #fff;
 	}
@@ -736,7 +741,7 @@ ul.social-in li a:hover {
   text-align: center;
   padding: 20px 0;
   background: url(../images/pattern.png);
-  border-bottom: 5px solid #B1599B;
+  border-bottom: 5px solid #3498db;
 }
 .copy p{
   font-size:1em;
@@ -744,7 +749,7 @@ ul.social-in li a:hover {
 }
 .copy p a{
   text-decoration:none;
-  color:#B1599B;
+  color:#3498db;
 }
 .copy p a:hover{
   text-decoration:none;
@@ -787,7 +792,7 @@ span.menu{
 	z-index: 9999;
 	left: 2%;
 	margin:2em 0em;
-	background:#B1599B;
+	background:#3498db;
 	border:0;
 }
 .top-nav span.menu{
